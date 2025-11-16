@@ -133,7 +133,7 @@ function Home() {
                 e.currentTarget.style.transform = 'translateY(0)';
               }}
             >
-               hi sandhiya thank you for the complaint happy for u
+               hi sandhiya thank you for the complaint happy for learning
             </button>
           </Link>
         </div>
