@@ -41,8 +41,7 @@ export default function StayAware() {
             <h1 style={styles.title}>Stay Aware</h1>
             <div style={styles.content}>
                 <p style={styles.paragraph}>
-                    Water quality is essential for sustaining life and preserving ecosystems. Here are some key points to stay
-                    aware of:
+                    Water quality is essential
                 </p>
 
                 <div style={styles.sectionSpacing}></div>
