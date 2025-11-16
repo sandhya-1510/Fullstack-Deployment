@@ -115,7 +115,7 @@ function Home() {
           onMouseEnter={(e) => (e.currentTarget.style.color = '#0056b3')}
           onMouseLeave={(e) => (e.currentTarget.style.color = '#007bff')}
         >
-          Water Quality Monitoring
+          Water Quality Monitoring 
         </h1>
         <p style={styles.infoText}>
           We're here to help you make a difference. Whether it's reporting a leak or learning how to conserve water, our platform is designed to empower you to take action.
@@ -133,7 +133,7 @@ function Home() {
                 e.currentTarget.style.transform = 'translateY(0)';
               }}
             >
-               welcome to complaint form
+               welcome to complaint form for quriess
             </button>
           </Link>
         </div>
